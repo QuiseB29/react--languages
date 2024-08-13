@@ -1,0 +1,19 @@
+{
+    "form": {
+        "header": "Conference Registration",
+        "nameLabel": "Name:",
+        "emailLabel": "Email address:",
+        "namePlaceholder": "Enter your name",
+        "emailPlaceholder": "Enter your email",
+        "trackLabel": "Conference Track:",
+        "termsLabel": "I agree to the terms and conditions",
+        "commentsLabel": "Additional Comments:",
+        "submitBtn": "Submit",
+        "tracks": {
+            "tech": "Technology",
+            "design": "Design",
+            "marketing": "Marketing",
+            "business": "Business"
+        }
+    }
+}

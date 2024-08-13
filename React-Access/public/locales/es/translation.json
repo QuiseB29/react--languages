@@ -1,0 +1,19 @@
+{
+    "form": {
+        "header": "Inscripción a la conferencia",
+        "nameLabel": "nombre:",
+        "emailLabel": "Dirección de correo electrónico:",
+        "namePlaceholder": "Ingresa tu nombre",
+        "emailPlaceholder": "Ingresa tu correo electrónico",
+        "trackLabel": "Pista de conferencias:",
+        "termsLabel": "Acepto los términos y condiciones",
+        "commentsLabel": "Comentarios adicionales:",
+        "submitBtn": "Enviar",
+        "tracks": {
+            "tech": "Tecnología",
+            "design": "Diseño",
+            "marketing": "Mercadotecnia",
+            "business": "Negocio"
+        }
+    }
+}
